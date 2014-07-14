@@ -10,7 +10,7 @@ To install, first install the gem:
 
 then set RUBYOPT to make bundlelocal get required:
 
-    $ export RUBYOPT=-rbundlelocal
+    $ export RUBYOPT=-r/full/path/to/installed/bundlelocal/lib/bundlelocal.rb
 
 On OSX you'll probably need something like http://www.rubicode.com/Software/RCEnvironment/
 
