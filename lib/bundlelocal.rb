@@ -1,6 +1,5 @@
 require_relative "bundlelocal/version"
 require_relative "bundlelocal/configuration"
-require_relative "bundlelocal/cli"
 require_relative "bundlelocal/dsl_ext"
 require 'bundler/dsl'
 
